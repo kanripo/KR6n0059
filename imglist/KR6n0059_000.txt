@@ -1,0 +1,4 @@
+000-0112c03	TKD 16-1052b	buddhist/K-koreana/16-tif/1000-1099/16_1052_B.TIF
+000-0112c22	TKD 16-1052c	buddhist/K-koreana/16-tif/1000-1099/16_1052_C.TIF
+000-0113a13	TKD 16-1053a	buddhist/K-koreana/16-tif/1000-1099/16_1053_A.TIF
+000-0113b03	TKD 16-1053b	buddhist/K-koreana/16-tif/1000-1099/16_1053_B.TIF
